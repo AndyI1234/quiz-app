@@ -1,2 +1,2 @@
 # quiz-app
-A simple quiz app written in nestjs and angular
+A simple quiz app written in java(spring-boot) and angular
